@@ -1,1 +1,1 @@
-# social-hub
+# Social Hub
